@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_asteroide_grande",
+  "%Name":"obj_asteroide_medio",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_asteroide_grande",
+  "name":"obj_asteroide_medio",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_asteroide_grande",
-    "path":"sprites/spr_asteroide_grande/spr_asteroide_grande.yy",
+    "name":"spr_asteroide_medio",
+    "path":"sprites/spr_asteroide_medio/spr_asteroide_medio.yy",
   },
   "spriteMaskId":null,
   "visible":true,
