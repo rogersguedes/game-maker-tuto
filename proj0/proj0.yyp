@@ -27,7 +27,10 @@
   },
   "name":"proj0",
   "resources":[
+    {"id":{"name":"obj_nave","path":"objects/obj_nave/obj_nave.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_nave_movendo","path":"sprites/spr_nave_movendo/spr_nave_movendo.yy",},},
+    {"id":{"name":"spr_nave_parada","path":"sprites/spr_nave_parada/spr_nave_parada.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
