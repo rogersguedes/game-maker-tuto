@@ -27,6 +27,7 @@
   },
   "name":"proj0",
   "resources":[
+    {"id":{"name":"fnt_basica","path":"fonts/fnt_basica/fnt_basica.yy",},},
     {"id":{"name":"obj_asteroide_grande","path":"objects/obj_asteroide_grande/obj_asteroide_grande.yy",},},
     {"id":{"name":"obj_asteroide_medio","path":"objects/obj_asteroide_medio/obj_asteroide_medio.yy",},},
     {"id":{"name":"obj_asteroide_pequeno","path":"objects/obj_asteroide_pequeno/obj_asteroide_pequeno.yy",},},
@@ -37,6 +38,8 @@
     {"id":{"name":"obj_nave","path":"objects/obj_nave/obj_nave.yy",},},
     {"id":{"name":"obj_projetil","path":"objects/obj_projetil/obj_projetil.yy",},},
     {"id":{"name":"parente_asteroide","path":"objects/parente_asteroide/parente_asteroide.yy",},},
+    {"id":{"name":"rm_final","path":"rooms/rm_final/rm_final.yy",},},
+    {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"snd_explosao","path":"sounds/snd_explosao/snd_explosao.yy",},},
     {"id":{"name":"snd_hit","path":"sounds/snd_hit/snd_hit.yy",},},
@@ -58,7 +61,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_final","path":"rooms/rm_final/rm_final.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
